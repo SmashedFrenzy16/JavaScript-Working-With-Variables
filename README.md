@@ -1,2 +1,2 @@
 # JavaScript Working With Variables
-Working with variables in JavaScript
+Working with variables in JavaScript.
